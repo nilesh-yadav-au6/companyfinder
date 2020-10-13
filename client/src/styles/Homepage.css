@@ -1,0 +1,26 @@
+.main-home {
+    padding: 3rem;
+    height: auto;
+    background-color: #0abf53;
+}
+.company-home{
+    width:60vw;
+    background-color: #0abf53;
+}
+
+.box h3 {
+    text-align: center;
+    top: 80px;
+    font-size: 25px;
+    font-weight: bold;
+    color: green;
+    position: relative;
+    animation: mybox 1s;
+}
+
+.box {
+    width: 70%;
+    height: 200px;
+    background: #FFF;
+    margin: 40px auto;
+}

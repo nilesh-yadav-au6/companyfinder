@@ -1,0 +1,24 @@
+
+.company-list{
+    width:60vw;
+    transform: scale(1);
+    transition: 1s ease;
+    background-color: #0abf53;
+    height: auto;
+}
+.company-list:hover{
+    transform: scale(1.1);
+}
+
+.span-tag{
+    width: 5rem;
+    height: 2rem;
+    background-color: lightblue;
+    margin-left: 0.5rem;
+    text-align: center;
+    transform: scale(1);
+    transition: 1s ease;
+}
+.span-tag:hover{
+    transform: scale(1.3);
+}
